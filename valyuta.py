@@ -108,3 +108,4 @@ if __name__ == "__main__":
         logging.error(f"API so‘rov xatosi: {e}")
     except Exception as e:
         logging.error(f"Noma’lum xato: {e}")
+        print("zor")
